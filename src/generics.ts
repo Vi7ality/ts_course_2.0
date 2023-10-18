@@ -1,5 +1,5 @@
 let arr: Array<string | number> = [];
 
-arr = ['str', 10, true];
+arr = ['str', 10];
 
 export {};
